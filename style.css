@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&family=Zen+Dots&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #002230;
+}
+
+
+body {
+    background: #f7f8f7;
+}
+
+.container {
+    margin: 20px;
+}
+
+.content {
+    position: absolute;
+    text-align: center;
+    top: 100px;
+    left: 200px;
+}
+
+.content h2 {
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    letter-spacing: .2rem;
+}
+
+.content p {
+    text-transform: capitalize;
+    font-size: 1.3rem;
+}
+
+.social-media li {
+    list-style: none;
+}
+
+.social-media  i {
+    font-size: 1.2rem;
+}
+
+.social-media a {
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+
+
+
+
